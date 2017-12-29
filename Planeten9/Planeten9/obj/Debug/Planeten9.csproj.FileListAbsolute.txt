@@ -1,0 +1,7 @@
+c:\users\mmess\source\repos\Planeten9\Planeten9\bin\Debug\Planeten9.exe.config
+c:\users\mmess\source\repos\Planeten9\Planeten9\bin\Debug\Planeten9.exe
+c:\users\mmess\source\repos\Planeten9\Planeten9\bin\Debug\Planeten9.pdb
+c:\users\mmess\source\repos\Planeten9\Planeten9\obj\Debug\Planeten9.csprojResolveAssemblyReference.cache
+c:\users\mmess\source\repos\Planeten9\Planeten9\obj\Debug\Planeten9.csproj.CoreCompileInputs.cache
+c:\users\mmess\source\repos\Planeten9\Planeten9\obj\Debug\Planeten9.exe
+c:\users\mmess\source\repos\Planeten9\Planeten9\obj\Debug\Planeten9.pdb
