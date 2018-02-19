@@ -3,8 +3,8 @@
 public class Program
 {
     //Konstanten
-    const double G = 6.67408E-11; //Gravitationskonstante [m^3/(kg s^2)] 
-    const double MSonne = 1.98892E30; // Sonnenmasse [kg]
+    const double G = 6.674E-11; // gravitational constant [m^3/(kg s^2)] 
+    const double MSonne = 1.98892E30; // mass of sun [kg]
     const double K = G * MSonne;
     const double AE = 1.49597870700E11; // Astronomische Einheit [m]
     const double J = 31536000; // 31536000 seconds in a year
