@@ -7,7 +7,7 @@ public class Program
     const double MSonne = 1.98892E30; // Sonnenmasse [kg]
     const double K = G * MSonne;
     const double AE = 1.49597870700E11; // Astronomische Einheit [m]
-    const double J = 31536000; // 1 Jahr
+    const double J = 31536000; // 31536000 seconds in a year
 
     const int TEnde = 31536000; // 1 Jahr
     const int TBahnIntervall = 86400; // 1 Tag
